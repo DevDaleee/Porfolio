@@ -2162,9 +2162,8 @@ header {
 }
 
 #portfolio .folio-item img {
-
-	width: 320px;
-	height: 320px;
+	width: 310px;
+	height: 310px;
 	vertical-align: middle;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
@@ -2175,7 +2174,7 @@ header {
 
 #portfolio .overlay {
 	position: absolute;
-	left: 108px;
+	left: 15px;
 	width: 337px;
 	height: 325px;
 	background: transparent;
